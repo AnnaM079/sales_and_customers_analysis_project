@@ -8,8 +8,9 @@
 
 #### What you can accomplish with these Dashboards
 -- Key Features:
-https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Customers%20dashboard.png
-
+CUSTOMERS DASHBOARD:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Customers%20dashboard.png
+SALES DASHBOARD:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Sales%20dashboard.png
+BIKERS DASHBOARD:
 * KPI Cards : Displays  key perfomance indicators.
 * Interactive Filters : Filters for year and month also allows users to refine their analysis.
 * Trend Lines : Average and trend lines displayed where applicable.
