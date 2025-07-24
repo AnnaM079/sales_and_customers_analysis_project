@@ -2,6 +2,7 @@
 ## About Data
 - This repository provides insightful analysis of Sales and Customer perfomances visuals developed on Tableau.
 - It also Includes a Project phases diagram of how the Project was drafted from the beginning and the Datasets used for the   project.
+- PROJECT PHASES DIAGRAM:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/docs/Project%20Phases.pdf
 
 ### Who is this Dashboard For
 - These Tableau dashboards are designed to facilitate interactive data exploration and visual representation of key metrics that drive business decisions.
