@@ -14,6 +14,7 @@
 
 #### What you can accomplish with these Dashboards
 -- Key Features:
+
 CUSTOMERS DASHBOARD:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Customers%20dashboard.png
 SALES DASHBOARD:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Sales%20dashboard.png
 BIKERS DASHBOARD:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Bikers%20Dasboard.png
