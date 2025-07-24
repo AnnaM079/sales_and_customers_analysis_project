@@ -4,6 +4,11 @@
 - It also Includes a Project phases diagram of how the Project was drafted from the beginning and the Datasets used for the   project.
 - PROJECT PHASES DIAGRAM:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/docs/Project%20Phases.pdf
 
+  # FOLDERS IN THIS REPOSITORY
+  * Datasets - dataset used for creating dashboard.
+  * Docs - project phases diagram: demonstratin how the project is structured.
+  * Dashboard - customers and sales dashboards, raw dashboards and png images.
+
 ### Who is this Dashboard For
 - These Tableau dashboards are designed to facilitate interactive data exploration and visual representation of key metrics that drive business decisions.
 
@@ -33,3 +38,5 @@ BIKERS DASHBOARD:https://github.com/AnnaM079/sales_and_customers_analysis_projec
 --- 
 These Tableau  Dashboards offer a comprehensive view of sales perfomance , leveraging interactive features and dynamics visualizations to support data-driven desicion making.
 The KPIs included provide valuable insights into the business financial health and operational efficiency.
+
+
