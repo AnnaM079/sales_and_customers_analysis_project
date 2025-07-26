@@ -36,11 +36,11 @@ Conclusion
 Using Python analysis revealed the good month for travelling and a good carrier Airline to use in order avoid any flight delays.
 ====================================================================================================================================================
 
--- Key Features Tableau
+-- Key Features Tableau Dashboards
 
-Customers Dashboard:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Customers%20dashboard.png
-Sales Dashboard:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Sales%20dashboard.png
-Bikers Dashboard:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Bikers%20Dasboard.png
+Customers dashboard :https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Customers%20dashboard.png
+Sales  :https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Sales%20dashboard.png
+Bikers :https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Bikers%20Dasboard.png
 
 * KPI Cards : Displays  key perfomance indicators.
 * Interactive Filters : Filters for year and month also allows users to refine their analysis.
