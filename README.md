@@ -7,8 +7,8 @@
   # FOLDERS IN THIS REPOSITORY
   * Datasets - dataset used for creating tableau dashboards.
   * Docs - project phases diagram: demonstratin how the project is structured.
-  * Dashboard - customers and sales dashboards, raw dashboards and png images.
-  * Python - PDF
+  * Dashboards - Tableau customers and sales dashboards, raw dashboards and png images.
+  * Dashboards - Python - PDF (https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/data%20project.pdf)
 
 ### Who is this Dashboard For
 - These dashboards are designed to facilitate interactive data exploration and visual representation of key metrics that drive business decisions.
