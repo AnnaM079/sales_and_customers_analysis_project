@@ -5,9 +5,9 @@
 
   ### FOLDERS IN THIS REPOSITORY
   * Datasets - dataset used for creating tableau dashboards.
-  * Docs - project phases diagram: demonstratin how the project is structured.(https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/docs/Project%20Phases.pdf)
+  * Docs - project phases diagram: demonstratin how the project is structured.[https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/docs/Project%20Phases.pdf].
   * Dashboards - Tableau customers and sales dashboards, raw dashboards and png images.
-  * Dashboards - Python - PDF (https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/data%20project.pdf)
+  * Dashboards - Python - PDF [https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/data%20project.pdf]
 
 ### Who is this Dashboard For
 - These dashboards are designed to facilitate interactive data exploration and visual representation of key metrics that drive business decisions.
@@ -37,9 +37,9 @@ Using Python analysis revealed the good month for travelling and a good carrier 
 
 -- Key Features Tableau Dashboards
 
-Customers dashboard []
-Sales Dashboard:[https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Sales%20%26%20Customer%20Dashboards.twbx]
-Bikers Dashboard:[https://github.com/AnnaM079/sales_and_customers_analysis_project/raw/refs/heads/main/dashboards/Bikers%20dashboard.twbx]
+* Customers dashboard [https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Sales%20%26%20Customer%20Dashboards.twbx].
+* Sales Dashboard:[https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Sales%20%26%20Customer%20Dashboards.twbx].
+* Bikers Dashboard:[https://github.com/AnnaM079/sales_and_customers_analysis_project/raw/refs/heads/main/dashboards/Bikers%20dashboard.twbx].
 
 * KPI Cards : Displays  key perfomance indicators.
 * Interactive Filters : Filters for year and month also allows users to refine their analysis.
