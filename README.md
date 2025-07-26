@@ -2,11 +2,10 @@
 ## About Data
 - This repository provides insightful analysis of Sales and Customer perfomances visuals developed on Python and Tableau.
 - It also Includes a Project phases diagram of how the Tableau Project was drafted from the beginning and the Datasets used for the projects.
-- PROJECT PHASES DIAGRAM:https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/docs/Project%20Phases.pdf
 
-  # FOLDERS IN THIS REPOSITORY
+  ### FOLDERS IN THIS REPOSITORY
   * Datasets - dataset used for creating tableau dashboards.
-  * Docs - project phases diagram: demonstratin how the project is structured.
+  * Docs - project phases diagram: demonstratin how the project is structured.(https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/docs/Project%20Phases.pdf)
   * Dashboards - Tableau customers and sales dashboards, raw dashboards and png images.
   * Dashboards - Python - PDF (https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/data%20project.pdf)
 
@@ -38,9 +37,9 @@ Using Python analysis revealed the good month for travelling and a good carrier 
 
 -- Key Features Tableau Dashboards
 
-Customers dashboard :https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Customers%20dashboard.png
-Sales  :https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Sales%20dashboard.png
-Bikers :https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Bikers%20Dasboard.png
+Customers dashboard https://github.com/AnnaM079/sales_and_customers_analysis_project/blob/main/dashboards/Customers%20dashboard.png
+[Sales Dashboard]
+Bikers https://github.com/AnnaM079/sales_and_customers_analysis_project/raw/refs/heads/main/dashboards/Bikers%20dashboard.twbx
 
 * KPI Cards : Displays  key perfomance indicators.
 * Interactive Filters : Filters for year and month also allows users to refine their analysis.
